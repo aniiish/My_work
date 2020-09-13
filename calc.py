@@ -24,3 +24,6 @@ elif op=='/':
     
 else:
  print(no1*no2)
+
+
+print("Thanks for using this calculator :>")
