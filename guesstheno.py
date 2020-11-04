@@ -11,7 +11,7 @@ while(g >=0):
     no = str(no)
     g-=1
     if ans == no :
-        print("YOur guess is right !!!\n")
+        print("Your guess is right !!!\n")
         print("No of guess took to win :  "+str(10-g))
         break
 
